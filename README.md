@@ -1,6 +1,12 @@
 # Python and Deep Learning: A Comprehensive Introduction
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 Welcome to this comprehensive guide to learning Python programming and Deep Learning! This book is designed to take you from Python basics to advanced deep learning concepts.
+
+**🚀 [Quick Start Guide](QUICKSTART.md)** | **📖 [Full Documentation](#table-of-contents)** | **🤝 [Contributing](CONTRIBUTING.md)**
 
 ## Table of Contents
 
@@ -100,11 +106,15 @@ Python-Intro-Book/
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on:
+- How to report issues
+- How to suggest enhancements
+- Code style guidelines
+- Pull request process
 
 ## License
 
-This project is open source and available for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Resources
 
